@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arpit Anand 
 ## Blockchain Developer 
-Experienced Blockchain Developer with a demonstrated history of working in the computer software industry. Skilled in Solidity, NodeJs, javascript, Python (Programming Language), C, PL/SQL, and Software Development. Strong engineering professional with a Master of Science focused in Computer Science from Central University of South Bihar, Gaya.* 
+Experienced Blockchain Developer with a demonstrated history of working in the computer software industry. Skilled in Solidity, NodeJs, javascript, Python (Programming Language), C, PL/SQL, and Software Development. Strong engineering professional with a Master of Science focused in Computer Science from Central University of South Bihar, Gaya.
 
 🌍  I'm based in Amhedabad
 
